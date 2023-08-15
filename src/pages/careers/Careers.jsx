@@ -3,7 +3,7 @@ import {useLoaderData,Link}  from 'react-router-dom'
 const Careers = () => {
     const careers = useLoaderData();
 
-    console.log(careers);
+    // console.log(careers);
   return (
     <div>
     {
